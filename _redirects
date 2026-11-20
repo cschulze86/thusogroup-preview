@@ -1,0 +1,6 @@
+# Old Wix URLs -> new pages (Netlify / Cloudflare Pages format)
+/expertise        /about/                    301
+/team             /about/                    301
+/experience       /development/references/   301
+/locations        /offices/                  301
+/fullscreen-page  /                          301
